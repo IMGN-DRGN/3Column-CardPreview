@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    min-height: 100vh;
+    border: 2px solid red;
+}
+.section{
+    margin: .5rem auto;
+    padding: .3rem .9rem;
+}
+.btn{
+    border-radius: 1.5rem;
+    width: max-content;
+    background-color: white;
+    margin-bottom: 2rem;
+}
+.btn1{
+    color: orangered;
+    font-weight: bold;
+}
+.btn2 {
+    color: green;
+    font-weight: bold;
+}
+.btn3 {
+    color: navy;
+    font-weight: bold;
+}
+h1, .p{
+    color: white;
+    font-weight: bold;
+}
+.col1{
+    background-color: orangered;
+}
+.col2 {
+    background-color: teal;
+}
+.col3 {
+    background-color: rgb(34, 58, 34);
+}
